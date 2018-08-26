@@ -119,6 +119,11 @@ iframe {
   float: left;
 }
 
+.alight_right {
+  clear: right;
+  align:right;
+}
+
 
 
 .shadow {
