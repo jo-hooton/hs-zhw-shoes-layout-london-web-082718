@@ -124,7 +124,7 @@ iframe {
 
 .shadow_wide {
   box-shadow: 0 3px 10px #333;
-  column-span: 2;
+  column-span: 1,2;
 }
 
 .shadow {
