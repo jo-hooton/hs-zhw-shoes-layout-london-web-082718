@@ -110,8 +110,14 @@ iframe {
   margin: 0 auto;
 }
 
+.shadow_wide {
+  box-shadow: 0 3px 10px #333;
+  column-span: all;
+}
+
 .shadow {
   box-shadow: 0 3px 10px #333;
+  column-span: 1;
 }
 
 .milk_text {
