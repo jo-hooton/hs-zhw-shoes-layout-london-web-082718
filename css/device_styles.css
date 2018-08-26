@@ -13,6 +13,7 @@
 
   .wrapper {
     width: 90%;
+    column-count: 3;
   }
 
   #social {
