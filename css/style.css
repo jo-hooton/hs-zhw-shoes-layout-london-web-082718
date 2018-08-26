@@ -114,6 +114,10 @@ iframe {
   margin: 0 auto;
 }
 
+.align_left {
+  clear: left;
+  float: left;
+}
 
 
 
