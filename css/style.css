@@ -105,6 +105,10 @@ iframe {
   height: 353px;
 }
 
+.clearfix {
+    overflow: auto;
+}
+
 .wrapper {
   width: 960px;
   margin: 0 auto;
