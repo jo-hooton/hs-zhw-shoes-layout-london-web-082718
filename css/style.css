@@ -116,20 +116,8 @@ iframe {
   column-width: 33.33%
 }
 
-.wrapper_nav {
-  width: 960px;
-  margin: 0 auto;
-}
 
-.shadow_wide {
-  box-shadow: 0 3px 10px #333;
-  column-span: all;
-}
 
-.shadow_wide_two {
-  box-shadow: 0 3px 10px #333;
-  column-span: 2;
-}
 
 .shadow {
   box-shadow: 0 3px 10px #333;
